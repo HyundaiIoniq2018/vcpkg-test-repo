@@ -1,0 +1,5 @@
+@PACKAGE_INIT@
+
+include("${CMAKE_CURRENT_LIST_DIR}/vcpkg-test-package-targets.cmake")
+
+check_required_components(vcpkg-test-package)

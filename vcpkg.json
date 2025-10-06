@@ -1,0 +1,8 @@
+{
+    "name": "vcpkg-test-package",
+    "version": "0.0.1",
+    "description": "Placeholder package for future updates - coming soon",
+    "homepage": "https://github.com/HyundaiIoniq2018/vcpkg-test-repo",
+    "license": "Apache-2.0",
+    "supports": "!uwp"
+}
